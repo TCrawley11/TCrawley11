@@ -1,5 +1,5 @@
 ## TCrawley11 💫
----
+
 Hi I'm Tygo. I'm a 4th year software engineering student and enjoy working on ML stuff like RL, NLP, and computer vision.
 
 Currently working on: ml-experiments, building a LLM from scratch
