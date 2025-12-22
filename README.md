@@ -1,4 +1,8 @@
-## Hi there 👋
+## TCrawley11 💫
+---
+Hi I'm Tygo. I'm a 4th year software engineering student and enjoy working on ML stuff like RL, NLP, and computer vision.
+
+Currently working on: ml-experiments, building a LLM from scratch
 
 <!--
 **TCrawley11/TCrawley11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
