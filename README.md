@@ -2,7 +2,9 @@
 
 Hi I'm Tygo. I'm a 4th year software engineering student and enjoy working on ML stuff like RL, NLP, and computer vision.
 
-Currently working on ---> **ml experiments** - building a LLM from scratch
+Currently working on ---> **WEAP - Perception Team** - building the perception stack for a self-driving golf kart
+Also working on ---> **ml experiments** - buit a GPT-2 style LLM from scratch, now working on a vision transformer
+
 
 <!--
 **TCrawley11/TCrawley11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
