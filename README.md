@@ -3,6 +3,7 @@
 Hi I'm Tygo. I'm a 4th year software engineering student and enjoy working on ML stuff like RL, NLP, and computer vision.
 
 Currently working on ---> **WEAP - Perception Team** - building the perception stack for a self-driving golf kart
+
 Also working on ---> **ml experiments** - buit a GPT-2 style LLM from scratch, now working on a vision transformer
 
 
